@@ -1,10 +1,6 @@
 #EXTM3U
 
- 
-#EXTINF:-1 tvg-logo="#" group-title="FILMES", [COLOR orange] ANIMES [/COLOR]
-https://goo.gl/Yeyjrz
- 
-#EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/XeHS-large.jpg" group-title="Séries Tokusatsus",Comando Estelar Flashman Ep.1 - A Terra Em Perigo
+ #EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/XeHS-large.jpg" group-title="Séries Tokusatsus",Comando Estelar Flashman Ep.1 - A Terra Em Perigo
 http://www.blogger.com/video-play.mp4?contentId=656bf378d7608759
  
 #EXTINF:-1 tvg-logo="http://www.4icdn.com/img/animes/XeHS-large.jpg" group-title="Séries Tokusatsus",Comando Estelar Flashman Ep.2 - O Robô Gigante
